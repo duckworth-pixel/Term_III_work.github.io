@@ -1,0 +1,577 @@
+/* Sign Up */
+
+position: relative;
+width: 1152px;
+height: 700px;
+
+background: linear-gradient(223.58deg, #8BB2B2 31.18%, #B3CDCD 101.35%);
+
+
+/* White BG */
+
+position: absolute;
+width: 740px;
+height: 700px;
+left: 412px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 30px 0px 0px 30px;
+
+
+/* Create Account */
+
+position: absolute;
+width: 279px;
+height: 44px;
+left: 550px;
+top: 100px;
+
+font-family: 'Libre Caslon Text';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 44px;
+
+color: #525252;
+
+
+
+/* Continue with Google */
+
+position: absolute;
+width: 220px;
+height: 40px;
+left: 550px;
+top: 167px;
+
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 220px;
+height: 40px;
+left: 550px;
+top: 167px;
+
+border: 1px solid #E8E8E8;
+border-radius: 6px;
+
+
+/* image 2 */
+
+position: absolute;
+width: 25px;
+height: 25px;
+left: 563px;
+top: 175px;
+
+background: url(image);
+
+
+/* Continue with Google */
+
+position: absolute;
+width: 132px;
+height: 18px;
+left: 601px;
+top: 178px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Continue with Facebook */
+
+position: absolute;
+width: 220px;
+height: 40px;
+left: 794px;
+top: 167px;
+
+
+
+/* Rectangle 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 220px;
+height: 40px;
+left: 794px;
+top: 167px;
+
+border: 1px solid #E8E8E8;
+border-radius: 6px;
+
+
+/* Continue with Facebook */
+
+position: absolute;
+width: 148px;
+height: 18px;
+left: 849px;
+top: 178px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* image 3 */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 810px;
+top: 175px;
+
+background: url(image.png);
+
+
+/* - OR - */
+
+position: absolute;
+width: 44px;
+height: 21px;
+left: 768px;
+top: 247px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+color: #A1A1A1;
+
+
+
+/* Full Name */
+
+position: absolute;
+width: 464px;
+height: 29px;
+left: 550px;
+top: 308px;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 464px;
+height: 0px;
+left: 550px;
+top: 337px;
+
+border: 1px solid #E8E8E8;
+
+
+/* Full Name */
+
+position: absolute;
+width: 79px;
+height: 24px;
+left: 550px;
+top: 308px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Email Address */
+
+position: absolute;
+width: 464px;
+height: 29px;
+left: 550px;
+top: 377px;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 464px;
+height: 0px;
+left: 550px;
+top: 406px;
+
+border: 1px solid #E8E8E8;
+
+
+/* Email Address */
+
+position: absolute;
+width: 113px;
+height: 24px;
+left: 550px;
+top: 377px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Password */
+
+position: absolute;
+width: 464px;
+height: 29px;
+left: 550px;
+top: 445px;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 464px;
+height: 0px;
+left: 550px;
+top: 474px;
+
+border: 1px solid #E8E8E8;
+
+
+/* Password */
+
+position: absolute;
+width: 77px;
+height: 24px;
+left: 550px;
+top: 445px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Button */
+
+position: absolute;
+width: 464px;
+height: 40px;
+left: 550px;
+top: 524px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 464px;
+height: 40px;
+left: 550px;
+top: 524px;
+
+background: #9AE9FF;
+border-radius: 6px;
+
+
+/* Create Account */
+
+position: absolute;
+width: 148px;
+height: 25px;
+left: 708px;
+top: 532px;
+
+font-family: 'Libre Caslon Text';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Already have an account? Login */
+
+position: absolute;
+width: 225px;
+height: 21px;
+left: 550px;
+top: 589px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Logo */
+
+position: absolute;
+width: 40.6px;
+height: 53.6px;
+left: 30px;
+top: 22px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 35.92px;
+height: 35.92px;
+left: 32px;
+top: 22px;
+
+background: #FFFFFF;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 35.92px;
+height: 35.92px;
+left: 32px;
+top: 31px;
+
+background: #93B8B8;
+
+
+/* Polygon 2 */
+
+position: absolute;
+width: 40.6px;
+height: 40.6px;
+left: 30px;
+top: 35px;
+
+background: #FFFFFF;
+
+
+/* Abstraction */
+
+position: absolute;
+left: 4.59%;
+right: 59.51%;
+top: 46.43%;
+bottom: 2.72%;
+
+background: url(Abstraction.png);
+transform: rotate(2.72deg);
+
+
+/* logo */
+
+position: absolute;
+width: 43px;
+height: 16px;
+left: 32px;
+top: 50px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 40px;
+/* or 308% */
+
+color: #000000;
+
+
+
+/* some welcoming texts here */
+
+position: absolute;
+width: 378px;
+height: 130px;
+left: 24px;
+top: 107px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 40px;
+/* or 83% */
+
+color: #000000;
+
+
+
+
+
+/* login css here */
+
+/* LOGIN-2 */
+
+position: relative;
+width: 1280px;
+height: 720px;
+
+background: #FFFFFF;
+
+
+/* LOGIN */
+
+position: absolute;
+width: 336px;
+height: 118px;
+left: calc(50% - 336px/2 + 238px);
+top: 129px;
+
+font-family: 'Libre Caslon Text';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 118px;
+/* identical to box height */
+
+color: #252525;
+
+
+
+/* Rectangle 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 550px;
+height: 48px;
+left: 570px;
+top: 295px;
+
+border: 1px solid #B9B9B9;
+border-radius: 5px;
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 550px;
+height: 48px;
+left: 570px;
+top: 375px;
+
+border: 1px solid #B9B9B9;
+border-radius: 5px;
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 550px;
+height: 48px;
+left: 570px;
+top: 523px;
+
+background: #9AE9FF;
+border-radius: 5px;
+
+
+/* LOGIN */
+
+position: absolute;
+width: 78px;
+height: 35px;
+left: 806px;
+top: 529px;
+
+font-family: 'M PLUS 2';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 35px;
+/* identical to box height */
+
+color: #252525;
+
+
+
+/* Username */
+
+position: absolute;
+width: 77px;
+height: 23px;
+left: 588px;
+top: 307px;
+
+font-family: 'M PLUS 2';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 23px;
+
+color: #808080;
+
+
+
+/* Password */
+
+position: absolute;
+width: 72px;
+height: 23px;
+left: 588px;
+top: 387px;
+
+font-family: 'M PLUS 2';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 23px;
+
+color: #808080;
+
+
+
+/* Abstraction */
+
+position: absolute;
+left: 5.54%;
+right: 62.15%;
+top: 27.64%;
+bottom: 22.92%;
+
+background: url(Abstraction.png);
+transform: rotate(2.72deg);
